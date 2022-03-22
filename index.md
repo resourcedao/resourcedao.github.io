@@ -7,11 +7,11 @@ keywords:
 title: ResourceDAO
 description: The ResourceDAO official wiki
 buttons:
-    - content: Join our discord
+    - content: Discord
       url: 'https://discord.gg/2PGtMw45y8'
       external_url: true
     - icon: github
-      content: See our Github Org
+      content: Github
       url: 'https://github.com/resourcedao/'
       external_url: true
 
