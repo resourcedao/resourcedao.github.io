@@ -1,3 +1,5 @@
+destination: docs
+
 # Theme settings
 resourcedao:
     baseurl:
