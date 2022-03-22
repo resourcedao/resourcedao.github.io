@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: General information
-# description:
+description: All the info & links needed for someone new to ResourceDAO
 
 # Author box
 # author:
