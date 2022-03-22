@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: General information
+title: A highlevel overview
 # description:
 
 # Author box

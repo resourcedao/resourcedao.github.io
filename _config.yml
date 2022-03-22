@@ -14,7 +14,7 @@ resourcedao:
             - item_name: Twitter
               item_url: 'https://twitter.com/resourcedao'
             - item_name: Github
-              item_url: '#'
+              item_url: 'https://github.com/resourcedao'
     footer:
         content:
             logo:

@@ -27,7 +27,7 @@ grid_navigation:
     - title: General Information
       excerpt: All the info at a higher level for ResourceDAO
       cta: Learn more
-      url: 'https://resourcedao.github.io/info'
+      url: 'https://resourcedao.github.io/start/'
     - title: Storage
       excerpt: Code for our permanent decentralised file storage protocol that allows the ability to pay once and store forever.
       cta: (TBH)
