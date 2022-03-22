@@ -27,45 +27,15 @@ micro_nav: true
 #         content: Next page
 #         url: '#'
 
-grid_navigation:
-    - title: General Information
-      excerpt: All the info at a higher level for ResourceDAO
-      cta: Learn more
-      url: '/info'
-    - title: Storage
-      excerpt: Code for our permanent decentralised file storage protocol that allows the ability to pay once and store forever.
-      cta: (TBH)
-      url: '#'
-    - title: Smart Contracts
-      excerpt: Repo for all smart contracts used at ResourceDAO
-      cta: (TBH)
-      url: '#'
-    - title: Governance
-      excerpt: All code & packages related to governance at Resource DAO.
-      cta: (TBH)
-      url: '#'
-    - title: Staking
-      excerpt: Earning rewards for holding ResourceDAO tokens
-      cta: (TBH)
-      url: '#'
-    - title: Swaping
-      excerpt: ResourceDAO Swap Frontend, Backend packages for crosschain.
-      cta: (TBH)
-      url: '#'
-    - title: Code University
-      excerpt: Web3 & Creative education for DAO members. Go from basic HTML to Full stack WEB3 React apps
-      cta: (TBH)
-      url: '#'
-    - title: Partnerships
-      excerpt: Web3 partners using the resource pool to expand. 
-      cta: (TBH)
-      url: '#'
-    - title: Crypto Academy
-      excerpt: Learn Crypto & DeFi
-      cta: (TBH)
-      url: '#'
 
 ---
+
+<div class="callout callout--warning">
+    <p><strong>Welcome to ResourceDAO</strong></p>
+    <p>
+      ResourceDAO is very new; we may change as tech expands but the goal will remain. Consulting and building permaweb projects and supporting the web3 ecosystem. There will be NFT's, tokens and a chain if the team can figure out a way to do dPoW effectively but right now we are community growing and focusing on tech & ensure the tokenomics are fair for all parties involved.
+    </p>
+</div>
 
 # CONTENT UPDATE PENDING
 

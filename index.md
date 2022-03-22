@@ -1,6 +1,6 @@
 ---
 # Page settings
-layout: homepage
+layout: extends/homepage-header
 keywords:
 
 # Hero section
