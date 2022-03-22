@@ -37,7 +37,7 @@ grid_navigation:
       cta: (TBH)
       url: '#'
     - title: Governance
-      excerpt: All code & packages related to governance at Resource DAO.
+      excerpt: All code & packages related to governance at ResourceDAO.
       cta: (TBH)
       url: '#'
     - title: Staking
