@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: ResourceDAO
-description: An infobase for ResourceDAO
+description: The ResourceDAO official wiki
 buttons:
     - content: Join our discord
       url: 'https://discord.gg/2PGtMw45y8'
