@@ -39,11 +39,11 @@ resourcedao:
 
 # SASS settings
 sass:
-    sass_dir: ./resourcedao-theme/_sass
+    sass_dir: ./theme/resourcedao-theme/_sass
     style: :compressed
 
 # Jekyll settings
-layouts_dir: ./resourcedao-theme/_layouts
-includes_dir: ./resourcedao-theme/_includes
+layouts_dir: ./theme/resourcedao-theme/_layouts
+includes_dir: ./theme/resourcedao-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/

@@ -1,5 +1,5 @@
 .jekyll-cache
-resourcedao-theme
+theme/resourcedao-theme
 .vscode
 node_modules
 package.json
