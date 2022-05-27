@@ -13694,32 +13694,8 @@
     _t.exports), At = (kt = xt) && kt.__esModule && Object.prototype.hasOwnProperty.call(kt, "default") ? kt.default : kt, Et = {
         abi: ["function disperseEther(address[] recipients, uint256[] values)", "function disperseToken(address token, address[] recipients, uint256[] values)", "function disperseTokenSimple(address token, address[] recipients, uint256[] values)"],
         address: {
-            1: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            3: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            4: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            5: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            42: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            56: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            77: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            99: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            100: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            137: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            163: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            250: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            5777: "0x5b1869d9a4c187f2eaa108f3062412ecf0526b24",
-            42161: "0x692B5A7eCcCad243a07535E8C24B0E7433238C6a",
-            4689: "0xe3122e446Bf31036DA212375803f24b3dE96D0c9",
-            1285: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            42220: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            1666600000: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            60: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            128: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            66: "0x4c409CD87a44BA6686b12CAb0634A826de30Fe10",
-            43114: "0x102282451C857506ec0818086695878919F4B88b",
-            1313161554: "0x0a37577d21168894ffB24cA927dA0e88D4E607D8",
-            25: "0xDa37b4B5cfca049c0052B18050B6777DE0F95fC5",
-            288: "0x76fD049C0528E82de32EfaCbd251edF271AF8ECe", 
-            97: "0xC295aF6EA60d5DF6829E0740e241f187461368e6"
+            97: "0xC295aF6EA60d5DF6829E0740e241f187461368e6", 
+            56: "0x440b0c046a9691be0764278a6f20b521ea2ec597"
         }
     }, Mt = ["function name() view returns (string)", "function symbol() view returns (string)", "function decimals() view returns (uint8)", "function balanceOf(address) view returns (uint256)", "function allowance(address, address) view returns (uint256)", "function approve(address, uint256) returns (bool)"], St = ["function name() view returns (bytes32)", "function symbol() view returns (bytes32)", "function decimals() view returns (uint8)", "function balanceOf(address) view returns (uint256)", "function allowance(address, address) view returns (uint256)", "function approve(address, uint256) returns (bool)"], Nt = {
         1: {
@@ -13769,7 +13745,7 @@
             symbol: "BNB",
             explorer: {
                 name: "bscscan",
-                base: "https://testnet.bscscan.com",
+                base: "https://testnet.bscscan.com/",
                 tx: function(e) {
                     return "tx/" + e
                 },
